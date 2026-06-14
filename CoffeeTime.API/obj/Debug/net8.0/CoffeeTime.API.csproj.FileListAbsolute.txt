@@ -1,0 +1,483 @@
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\appsettings.Development.json
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\appsettings.json
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.exe
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.deps.json
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.runtimeconfig.json
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.pdb
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Core.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Core.pdb
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.csproj.AssemblyReference.cache
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.AssemblyInfoInputs.cache
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.AssemblyInfo.cs
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.csproj.CoreCompileInputs.cache
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.MvcApplicationPartsAssemblyInfo.cs
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.MvcApplicationPartsAssemblyInfo.cache
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.CoffeeTime.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.build.CoffeeTime.API.props
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoffeeTime.API.props
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoffeeTime.API.props
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\scopedcss\bundle\CoffeeTime.API.styles.css
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTi.1657C576.Up2Date
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\refint\CoffeeTime.API.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.pdb
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.genruntimeconfig.cache
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\ref\CoffeeTime.API.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Data.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Data.pdb
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\appsettings.Development.json
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\appsettings.json
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.exe
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.deps.json
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.runtimeconfig.json
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.pdb
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Azure.Core.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Humanizer.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.CodeDom.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Core.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Data.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Core.pdb
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Data.pdb
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.csproj.AssemblyReference.cache
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.AssemblyInfoInputs.cache
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.AssemblyInfo.cs
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.csproj.CoreCompileInputs.cache
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.MvcApplicationPartsAssemblyInfo.cs
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.MvcApplicationPartsAssemblyInfo.cache
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.CoffeeTime.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.build.CoffeeTime.API.props
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoffeeTime.API.props
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoffeeTime.API.props
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\scopedcss\bundle\CoffeeTime.API.styles.css
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTi.1657C576.Up2Date
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\refint\CoffeeTime.API.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.pdb
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.genruntimeconfig.cache
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\ref\CoffeeTime.API.dll
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.csproj.AssemblyReference.cache
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.AssemblyInfoInputs.cache
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.AssemblyInfo.cs
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.csproj.CoreCompileInputs.cache
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.MvcApplicationPartsAssemblyInfo.cs
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.MvcApplicationPartsAssemblyInfo.cache
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.dll
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\refint\CoffeeTime.API.dll
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.pdb
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.csproj.AssemblyReference.cache
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.AssemblyInfoInputs.cache
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.AssemblyInfo.cs
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.csproj.CoreCompileInputs.cache
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.MvcApplicationPartsAssemblyInfo.cs
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.MvcApplicationPartsAssemblyInfo.cache
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\refint\CoffeeTime.API.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.pdb
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\appsettings.json
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\appsettings.Development.json
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\appsettings.Production.Development.json
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\appsettings.Production.json
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.exe
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.deps.json
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.runtimeconfig.json
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.pdb
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\AutoMapper.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Azure.Core.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Humanizer.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.CodeDom.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Core.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Data.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Core.pdb
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Data.pdb
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.CoffeeTime.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.build.CoffeeTime.API.props
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoffeeTime.API.props
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoffeeTime.API.props
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\scopedcss\bundle\CoffeeTime.API.styles.css
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTi.1657C576.Up2Date
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.genruntimeconfig.cache
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\ref\CoffeeTime.API.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\libman.json
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\appsettings.Development.json
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\appsettings.json
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\appsettings.Production.Development.json
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\appsettings.Production.json
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\libman.json
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.exe
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.deps.json
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.runtimeconfig.json
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.API.pdb
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\AutoMapper.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Azure.Core.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Humanizer.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.CodeDom.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Core.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Data.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Core.pdb
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\bin\Debug\net8.0\CoffeeTime.Data.pdb
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.csproj.AssemblyReference.cache
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.AssemblyInfoInputs.cache
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.AssemblyInfo.cs
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.csproj.CoreCompileInputs.cache
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.MvcApplicationPartsAssemblyInfo.cs
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.MvcApplicationPartsAssemblyInfo.cache
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.CoffeeTime.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.build.CoffeeTime.API.props
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoffeeTime.API.props
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoffeeTime.API.props
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\scopedcss\bundle\CoffeeTime.API.styles.css
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTi.1657C576.Up2Date
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\refint\CoffeeTime.API.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.pdb
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\CoffeeTime.API.genruntimeconfig.cache
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.API\obj\Debug\net8.0\ref\CoffeeTime.API.dll

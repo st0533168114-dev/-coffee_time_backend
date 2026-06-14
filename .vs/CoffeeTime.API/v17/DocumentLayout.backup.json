@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21CF3F50-5082-4F85-81BC-7D5A2AC221E6}|CoffeTime.Data\\CoffeeTime.Data.csproj|e:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\coffeetime.api\\coffetime.data\\migrations\\20260527143811_addpaswordinuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CF3F50-5082-4F85-81BC-7D5A2AC221E6}|CoffeTime.Data\\CoffeeTime.Data.csproj|solutionrelative:coffetime.data\\migrations\\20260527143811_addpaswordinuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06579396-D211-4348-8E2C-A6A837978D5A}|CoffeeTime.Core\\CoffeeTime.Core.csproj|e:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\coffeetime.api\\coffeetime.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06579396-D211-4348-8E2C-A6A837978D5A}|CoffeeTime.Core\\CoffeeTime.Core.csproj|solutionrelative:coffeetime.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AD58E4-5820-461E-88CB-55ECD4CABAE5}|CoffeeTime.API\\CoffeeTime.API.csproj|e:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\coffeetime.api\\coffeetime.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AD58E4-5820-461E-88CB-55ECD4CABAE5}|CoffeeTime.API\\CoffeeTime.API.csproj|solutionrelative:coffeetime.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AD58E4-5820-461E-88CB-55ECD4CABAE5}|CoffeeTime.API\\CoffeeTime.API.csproj|e:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\coffeetime.api\\coffeetime.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AD58E4-5820-461E-88CB-55ECD4CABAE5}|CoffeeTime.API\\CoffeeTime.API.csproj|solutionrelative:coffeetime.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AD58E4-5820-461E-88CB-55ECD4CABAE5}|CoffeeTime.API\\CoffeeTime.API.csproj|e:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\coffeetime.api\\coffeetime.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AD58E4-5820-461E-88CB-55ECD4CABAE5}|CoffeeTime.API\\CoffeeTime.API.csproj|solutionrelative:coffeetime.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06579396-D211-4348-8E2C-A6A837978D5A}|CoffeeTime.Core\\CoffeeTime.Core.csproj|e:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\coffeetime.api\\coffeetime.core\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06579396-D211-4348-8E2C-A6A837978D5A}|CoffeeTime.Core\\CoffeeTime.Core.csproj|solutionrelative:coffeetime.core\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260527143811_AddPaswordInUser.cs",
+              "DocumentMoniker": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\CoffeTime.Data\\Migrations\\20260527143811_AddPaswordInUser.cs",
+              "RelativeDocumentMoniker": "CoffeTime.Data\\Migrations\\20260527143811_AddPaswordInUser.cs",
+              "ToolTip": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\CoffeTime.Data\\Migrations\\20260527143811_AddPaswordInUser.cs",
+              "RelativeToolTip": "CoffeTime.Data\\Migrations\\20260527143811_AddPaswordInUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:38:12.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\CoffeeTime.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CoffeeTime.Core\\Entities\\User.cs",
+              "ToolTip": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\CoffeeTime.Core\\Entities\\User.cs",
+              "RelativeToolTip": "CoffeeTime.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:18:50.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\CoffeeTime.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CoffeeTime.API\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\CoffeeTime.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CoffeeTime.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:09:19.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\CoffeeTime.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CoffeeTime.API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\CoffeeTime.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CoffeeTime.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:45:18.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\CoffeeTime.API\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeTime.API\\Program.cs",
+              "ToolTip": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\CoffeeTime.API\\Program.cs",
+              "RelativeToolTip": "CoffeeTime.API\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:58:12.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\CoffeeTime.Core\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "CoffeeTime.Core\\Services\\JwtService.cs",
+              "ToolTip": "E:\\.net \u05E7\u05D5\u05E8\u05E1\\jwt \u05E9\u05E2\u05D5\u05E8 15\\CoffeeTime.API\\CoffeeTime.Core\\Services\\JwtService.cs",
+              "RelativeToolTip": "CoffeeTime.Core\\Services\\JwtService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T14:11:33.823Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

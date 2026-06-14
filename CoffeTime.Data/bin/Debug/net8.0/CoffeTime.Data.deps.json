@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CoffeTime.Data/1.0.0": {
+        "dependencies": {
+          "CoffeeTime.Core": "1.0.0"
+        },
+        "runtime": {
+          "CoffeTime.Data.dll": {}
+        }
+      },
+      "CoffeeTime.Core/1.0.0": {
+        "runtime": {
+          "CoffeeTime.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoffeTime.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoffeeTime.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

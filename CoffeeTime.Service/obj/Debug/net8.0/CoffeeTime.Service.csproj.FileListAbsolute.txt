@@ -1,0 +1,75 @@
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.deps.json
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Core.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Core.pdb
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.csproj.AssemblyReference.cache
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.AssemblyInfoInputs.cache
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.AssemblyInfo.cs
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.csproj.CoreCompileInputs.cache
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTi.BE87C5EB.Up2Date
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\refint\CoffeeTime.Service.dll
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\שב שעור 7\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\ref\CoffeeTime.Service.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.deps.json
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Core.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Core.pdb
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.csproj.AssemblyReference.cache
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.AssemblyInfoInputs.cache
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.AssemblyInfo.cs
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.csproj.CoreCompileInputs.cache
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTi.BE87C5EB.Up2Date
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\refint\CoffeeTime.Service.dll
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\שב שעור 8\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\ref\CoffeeTime.Service.dll
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.deps.json
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Core.dll
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Core.pdb
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.csproj.AssemblyReference.cache
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.AssemblyInfoInputs.cache
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.AssemblyInfo.cs
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.csproj.CoreCompileInputs.cache
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTi.BE87C5EB.Up2Date
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\refint\CoffeeTime.Service.dll
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\13 שיעור\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\ref\CoffeeTime.Service.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.deps.json
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Core.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Core.pdb
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.csproj.AssemblyReference.cache
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.AssemblyInfoInputs.cache
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.AssemblyInfo.cs
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.csproj.CoreCompileInputs.cache
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTi.BE87C5EB.Up2Date
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\refint\CoffeeTime.Service.dll
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\שעור 14\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\ref\CoffeeTime.Service.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.deps.json
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Core.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\bin\Debug\net8.0\CoffeeTime.Core.pdb
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.csproj.AssemblyReference.cache
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.AssemblyInfoInputs.cache
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.AssemblyInfo.cs
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.csproj.CoreCompileInputs.cache
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTi.BE87C5EB.Up2Date
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\refint\CoffeeTime.Service.dll
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\CoffeeTime.Service.pdb
+E:\.net קורס\jwt שעור 15\CoffeeTime.API\CoffeeTime.Service\obj\Debug\net8.0\ref\CoffeeTime.Service.dll
